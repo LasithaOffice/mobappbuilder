@@ -1,0 +1,12 @@
+{
+  "app_name": "Avengers App 2020",
+  "app_category": "1",
+  "choose_template": "2",
+  "app_overview": "Heroes aren't Born. They're Built.",
+  "app_logo": "uploads/1585719964737_41413808_avengerslogopngtransparentbackgroundavengerslogopng.png",
+  "splash_logo": "uploads/1585719964737_41413808_avengerslogopngtransparentbackgroundavengerslogopng.png",
+  "splash_background": "uploads/1585719964743_5115112086_infinitywarthanospng_thanospngtransparentpng.png",
+  "payment_splits": [35, 90, 140, 400],
+  "paypal_client_id": "80000800012121121",
+  "token_id": 101
+}
